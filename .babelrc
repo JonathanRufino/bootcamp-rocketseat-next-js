@@ -6,7 +6,13 @@
       {
         "ssr": true,
         "displayName": true,
-        "preprocess": false,
+        "preprocess": false
+      }
+    ],
+    [
+      "babel-plugin-root-import",
+      {
+        "rootPathSuffix": "src"
       }
     ]
   ]
